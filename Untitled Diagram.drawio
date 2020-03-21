@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-21T11:46:16.763Z" agent="Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="iVWRa1i-a7nqtgrLAWHh" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-21T12:01:41.006Z" agent="Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="fwuit8QvtqjaVvMq3ugU" version="12.8.8" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry x="770" y="175" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rPj-FdVWAdJT3VnD7qgL-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="180" y="310" width="740" height="740" as="geometry" />
+          <mxGeometry x="120" y="250" width="890" height="890" as="geometry" />
         </mxCell>
         <mxCell id="rPj-FdVWAdJT3VnD7qgL-29" value="Masculino&lt;br&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="1">
           <mxGeometry x="325" y="600" width="15" height="15" as="geometry" />
@@ -39,9 +39,6 @@
         </mxCell>
         <mxCell id="rPj-FdVWAdJT3VnD7qgL-22" value="Nome Completo" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
           <mxGeometry x="217.5" y="425" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rPj-FdVWAdJT3VnD7qgL-23" value="&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;font-size:1em;&quot;&gt;&lt;tr height=&quot;0%&quot;&gt;&lt;td width=&quot;25%&quot;&gt;Layer 1&lt;/td&gt;&lt;td width=&quot;25%&quot;&gt;Layer 2&lt;/td&gt;&lt;td width=&quot;25%&quot; style=&quot;color:#008cff;&quot;&gt;Layer 3&lt;/td&gt;&lt;td width=&quot;25%&quot;&gt;Layer 4&lt;/td&gt;&lt;/tr&gt;&lt;tr height=&quot;100%&quot;&gt;&lt;td/&gt;&lt;/tr&gt;&lt;/table&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.stepBar;strokeColor=#c4c4c4;textColor=#666666;textColor2=#008cff;mainText=,,+,;textSize=17;fillColor=#666666;overflow=fill;fontSize=17;fontColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="430" y="335" width="420" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rPj-FdVWAdJT3VnD7qgL-28" value="Nome&amp;nbsp; Completo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="390" width="140" height="40" as="geometry" />
@@ -221,7 +218,7 @@
           <mxGeometry x="220" y="680" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rPj-FdVWAdJT3VnD7qgL-94" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;DADOS PESSOAIS&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="330" width="210" height="60" as="geometry" />
+          <mxGeometry x="190" y="350" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rPj-FdVWAdJT3VnD7qgL-95" value="Telefone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="760" width="90" height="20" as="geometry" />
@@ -229,8 +226,35 @@
         <mxCell id="rPj-FdVWAdJT3VnD7qgL-98" value="(&amp;nbsp; )&amp;nbsp; &amp;nbsp; &amp;nbsp;-&amp;nbsp; &amp;nbsp; ." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
           <mxGeometry x="220" y="790" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rPj-FdVWAdJT3VnD7qgL-99" value="Próximo&lt;br&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iButton;strokeColor=#444444;fontColor=#ffffff;buttonText=;fontSize=8;fillColor=#dddddd;fillColor2=#3D5565;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="215.75" y="880" width="104.25" height="40" as="geometry" />
+        <mxCell id="rPj-FdVWAdJT3VnD7qgL-101" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="550" y="410" width="20" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="rPj-FdVWAdJT3VnD7qgL-102" value="Email" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="860" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rPj-FdVWAdJT3VnD7qgL-103" value="example@gmail.com&lt;br&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="890" width="172.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPj-FdVWAdJT3VnD7qgL-104" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;SERVIÇOS E REFERÊNCIAS&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="583" y="340" width="257" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rPj-FdVWAdJT3VnD7qgL-105" value="Tipo(s) de serviço" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="420" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rPj-FdVWAdJT3VnD7qgL-106" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="460" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rPj-FdVWAdJT3VnD7qgL-107" value="Manicure" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="rPj-FdVWAdJT3VnD7qgL-106">
+          <mxGeometry x="8" y="7.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="rPj-FdVWAdJT3VnD7qgL-108" value="Pedicure" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="rPj-FdVWAdJT3VnD7qgL-106">
+          <mxGeometry x="8" y="37.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="rPj-FdVWAdJT3VnD7qgL-109" value="Maquiagem" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.checkbox;rSize=0;resizable=0;fillColor=#aaaaaa;strokeColor=#444444;gradientColor=#666666;align=left;spacingLeft=4;fontSize=17;fontColor=#008cff;labelPosition=right;" vertex="1" parent="rPj-FdVWAdJT3VnD7qgL-106">
+          <mxGeometry x="8" y="67.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="rPj-FdVWAdJT3VnD7qgL-110" value="cabeleireira" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="rPj-FdVWAdJT3VnD7qgL-106">
+          <mxGeometry x="8" y="97.5" width="15" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
