@@ -1,10 +1,10 @@
 body{
-	font-family="Tahoma";
+	font-family:"Tahoma";
 }
 h1{
 font-size:26px;
 	text-indent:15px;
-	color: ;
+	
 }
 #servicos{
 	background: black;
@@ -32,9 +32,8 @@ figure.foto-legenda
 	
 }
 #cabeçalho{
-	margin:0; height:100px; padding:10px; background:white;
-	
-
+    margin:0; height:100px; padding:10px; 
+    background:white;
 }
 
 #menu{
@@ -67,14 +66,6 @@ figure.foto-legenda
     background-color: red;
     margin: 50px;
 }
-
-
-<style type="text/css">
-
-			h2,h1 {
-			font: fantasy;
-            color: BLACK;
-			}
 .top_div{
 	position:absolute;
 	width:100%;
@@ -86,4 +77,3 @@ p{
 }
 
   
-}
