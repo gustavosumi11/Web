@@ -1,0 +1,13 @@
+let listaDeCards = $(".product-card");
+let json = ["nome", "desconto", "valor"]
+
+for(let i = 0; i < listaDeCards.length; i++)
+{
+	json.push({
+		"nome": listaDeCards.find(".product-card__title")[i].innerText,
+		"desconto": listaDeCards.find(".promotion__tag-discount")[i].innerText,
+		"valor": listaDeCards.find(".promotion-price")[i].innerText,
+	  }
+  );
+ }
+console.log(json);
